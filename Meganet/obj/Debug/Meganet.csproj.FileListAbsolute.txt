@@ -1,0 +1,13 @@
+E:\Meganet\Meganet\Meganet\bin\Debug\Meganet.exe.config
+E:\Meganet\Meganet\Meganet\obj\Debug\Meganet.csprojResolveAssemblyReference.cache
+E:\Meganet\Meganet\Meganet\obj\Debug\Meganet.frmLogin.resources
+E:\Meganet\Meganet\Meganet\obj\Debug\Meganet.Properties.Resources.resources
+E:\Meganet\Meganet\Meganet\obj\Debug\Meganet.csproj.GenerateResource.Cache
+E:\Meganet\Meganet\Meganet\bin\Debug\Meganet.exe
+E:\Meganet\Meganet\Meganet\bin\Debug\Meganet.pdb
+E:\Meganet\Meganet\Meganet\obj\Debug\Meganet.exe
+E:\Meganet\Meganet\Meganet\obj\Debug\Meganet.pdb
+E:\Meganet\Meganet\Meganet\obj\Debug\Meganet.frmRegister.resources
+E:\Meganet\Meganet\Meganet\obj\Debug\Meganet.FrmUserInfo.resources
+E:\Meganet\Meganet\Meganet\obj\Debug\Meganet.FrmEnterCode.resources
+E:\Meganet\Meganet\Meganet\obj\Debug\Meganet.FrmHistory.resources
